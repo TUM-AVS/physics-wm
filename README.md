@@ -15,8 +15,8 @@
 The following implementation is based on [DIAMOND](https://github.com/eloialonso/diamond/tree/csgo?tab=readme-ov-file).
 
 ## TODO &#128203;<a name="todo"></a>
-- [ ] One-page-paper upload (to be done before `[2025/10/30]`)
-- [ ] What-is-it video create (to be done before `[2025/10/15]`)
+- [ ] One-page-paper upload (to be done before `[2025/11/30]`)
+- [ ] What-is-it video create (to be done before `[2025/12/10]`)
 - [x] Dataset release
 - [x] Code release
 - [x] Preprint release
