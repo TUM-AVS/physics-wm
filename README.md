@@ -1,8 +1,11 @@
-# PIWM: Enhancing Physical Consistency in Lightweight World Models
+
+<h1 align="center">🌍 PIWM</h1>
+<h3 align="center">Enhancing Physical Consistency in Lightweight World Models</h3>
+
 
 <div align='center'>
 
-🌍 [Project Page](https://physics-wm.github.io/) • 🤓 [Paper](https://arxiv.org/abs/2509.12437) 
+🤓 [1-Page-Paper](assets/onepage.pdf) • 🔮 [Project Page](https://physics-wm.github.io/) • 📄 [Paper](https://arxiv.org/abs/2509.12437) • 🤗 [Dataset](https://huggingface.co/datasets/dingrui17/highwayEnv_wm/tree/main) 
 
 ![comparison](./assets/teaser.png)
 
@@ -15,8 +18,8 @@
 The following implementation is based on [DIAMOND](https://github.com/eloialonso/diamond/tree/csgo?tab=readme-ov-file).
 
 ## TODO &#128203;<a name="todo"></a>
-- [ ] One-page-paper upload (to be done before `[2025/11/30]`)
-- [ ] What-is-it video create (to be done before `[2025/12/10]`)
+- [ ] What-is-it video create (to be done before `[2025/12/01]`)
+- [x] 1-page-paper upload
 - [x] Dataset release
 - [x] Code release
 - [x] Preprint release
